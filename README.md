@@ -1,5 +1,5 @@
 # Grapher
-######A graphing tool
+######A very simple graphing tool
 
 The Grapher.java file contains the main method.
 
